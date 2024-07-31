@@ -4,4 +4,4 @@ This github repository performs object interaction in the mixed reality space.
 - **Mixed Reality Toolkit** is configured with *unity 3d*.
 - The spine model can be **Rotated**, **Scaled** and **Moved Around**.
 
-!('https://github.com/Anushawww/Object-Interaction/blob/main/sub-verse089-ct/image.0001.png')
+![IMAGE!](https://github.com/Anushawww/Object-Interaction/blob/main/sub-verse089-ct/image.0001.png)
